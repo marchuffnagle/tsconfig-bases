@@ -1,6 +1,6 @@
 {
   "name": "@mhuffnagle/tsconfig-bases",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Base TypeScript configs to extend in a TypeScript app",
   "publishConfig": {
     "access": "public"
