@@ -7,8 +7,8 @@ Based on [tsconfig/bases](https://github.com/tsconfig/bases).
 ## Install
 
 ```sh
-npm install --save-dev @mhuffnagle/ts-config
-yarn add --dev @mhuffnagle/ts-config
+npm install --save-dev @mhuffnagle/tsconfig-bases
+yarn add --dev @mhuffnagle/tsconfig-bases
 ```
 
 ## Available TypeScript Configs
