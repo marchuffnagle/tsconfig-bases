@@ -2,7 +2,7 @@
 
 Base TypeScript configs to extend in a TypeScript app.
 
-Based on [tsconfig/bases](https://github.com/tsconfig/bases).
+Based on [tsconfig/bases](https://github.com/tsconfig/bases)
 
 ## Install
 
