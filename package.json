@@ -1,0 +1,19 @@
+{
+  "name": "tsconfig-bases",
+  "version": "1.0.0",
+  "description": "Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchuffnagle/tsconfig-bases.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "author": "Marc Huffnagle <marc@huffnagle.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marchuffnagle/tsconfig-bases/issues"
+  },
+  "homepage": "https://github.com/marchuffnagle/tsconfig-bases#readme"
+}
