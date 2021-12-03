@@ -2,6 +2,9 @@
   "name": "@mhuffnagle/tsconfig-bases",
   "version": "1.0.0",
   "description": "Base TypeScript configs to extend in a TypeScript app",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marchuffnagle/tsconfig-bases.git"
