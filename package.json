@@ -1,7 +1,7 @@
 {
-  "name": "tsconfig-bases",
+  "name": "@mhuffnagle/tsconfig-bases",
   "version": "1.0.0",
-  "description": "Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment",
+  "description": "Base TypeScript configs to extend in a TypeScript app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marchuffnagle/tsconfig-bases.git"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/marchuffnagle/tsconfig-bases/issues"
   },
-  "homepage": "https://github.com/marchuffnagle/tsconfig-bases#readme"
+  "homepage": "https://github.com/marchuffnagle/tsconfig-bases#readme",
+  "files": [
+    "tsconfig-node14.json",
+    "tsconfig-node16.json"
+  ]
 }
